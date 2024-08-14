@@ -59,3 +59,6 @@ python manage.py runserver
 ```
 
 Isso iniciará o servidor de desenvolvimento em `http://localhost:8000/`. Você pode acessar este URL em seu navegador para interagir com a API.
+
+## Tela inicial da API 
+<img src="/Img/Imagem_API.png">
