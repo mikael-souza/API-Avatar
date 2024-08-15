@@ -2,7 +2,7 @@
 
 # API AVATAR
 
-Este é o repositório para o projeto de uma API voltado para o desenho Avatar: A Lenda de Aang que marcou a minha infância :grin:. Desenvolvido em Django REST Framework.
+Este é um projeto destinado à construção de uma aplicação utilizando Python para conectar-se com a API do desenho Avatar: A Lenda de Aang, que marcou a minha infância :grin:. Desenvolvido em Django REST Framework.
 
 ## Configuração do Ambiente Virtual (venv)
 
