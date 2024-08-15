@@ -2,7 +2,7 @@
 
 # API AVATAR
 
-Este é um projeto destinado à construção de uma aplicação utilizando Python para conectar-se com a API do desenho Avatar: A Lenda de Aang, que marcou a minha infância :grin:. Desenvolvido em Django REST Framework.
+Este é um projeto destinado à construção de uma aplicação utilizando Python para conectar-se com a API do desenho Avatar: A Lenda de Aang. Esse projeto e um desafio da plataforma 7DaysOfCode da empresa Alura e foi Desenvolvido em Django REST Framework.
 
 ## Configuração do Ambiente Virtual (venv)
 
