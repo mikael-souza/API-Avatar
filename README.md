@@ -4,6 +4,22 @@
 
 Este é um projeto destinado à construção de uma aplicação utilizando Python para conectar-se com a API do desenho Avatar: A Lenda de Aang. Esse projeto e um desafio da plataforma 7DaysOfCode da empresa Alura e foi Desenvolvido em Django REST Framework.
 
+# 🚀 Funcionalidades  
+• Gerenciamento de personagens (CRUD).
+
+• Informações sobre episódios da série.
+
+• Detalhes sobre os elementos (água, fogo, terra, ar).
+
+• Suporte a consultas de dados via API RESTful.
+
+# 🛠 Tecnologias utilizadas 
+• Python com Django REST Framework para desenvolver a aplicação back-end.
+
+• Postman para testar e validar a integração com a API, garantindo a funcionalidade e a precisão dos dados.
+
+• Integração com a API para explorar dados do universo de Avatar.
+
 ## Configuração do Ambiente Virtual (venv)
 
 Para garantir um ambiente de desenvolvimento limpo e isolado, é recomendável usar um ambiente virtual do Python. Siga as etapas abaixo para configurar e ativar o ambiente virtual:
@@ -62,3 +78,9 @@ Isso iniciará o servidor de desenvolvimento em `http://localhost:8000/`. Você 
 
 ## Tela inicial da API 
 <img src="/Img/Imagem_API.png">
+
+# 🤝 Contribuições 
+Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull requests.
+
+# 🧑‍💻 Autor 
+Desenvolvido por Mikael Ferreira
